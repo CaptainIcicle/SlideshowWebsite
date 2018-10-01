@@ -1,0 +1,2 @@
+# SlideshowWebstie
+Supernova slideshow software
